@@ -1,3 +1,7 @@
+## Things i worked and learned
+- using usestate to get data from local data file 
+- created components and passed this fetched data as props to them
+
 ## Figma URL
 
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
